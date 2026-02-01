@@ -1,0 +1,63 @@
+# 🚀 Sahil’s DSA Journey (2026)
+
+Welcome to my **DSA consistency challenge** 💪  
+This repository is my daily log of solving **Data Structures & Algorithms** problems.
+
+🎯 **Goal:** Become interview-ready for top MNCs like **Google / Microsoft** by building strong problem-solving skills through consistent practice.
+
+---
+
+## 🔥 Progress Tracker
+
+- **Start Date:** 01 Feb 2026
+- **Current Streak:** 1 days   
+- **Primary Language:** C++  
+- **Platforms:** TakeUForward / LeetCode / GFG
+
+---
+
+## 📅 Daily Logs
+
+> Each log contains:
+> - Problems solved
+> - Approach / key idea
+> - Time complexity
+
+| Day | Date | Problems | Topics | Log |
+|-----|------|----------|--------|-----|
+| 001 | 2026-02-01 | X | Arrays | [Day 001](./logs/day-001.md) |
+| 002 | 2026-02-02 | X | Strings | [Day 002](./logs/day-002.md) |
+| 003 | 2026-02-03 | X | Hashing | [Day 003](./logs/day-003.md) |
+
+---
+
+## 🧠 Topics Checklist
+
+- [ ] Arrays
+- [ ] Strings
+- [ ] Hashing
+- [ ] Two Pointers
+- [ ] Sliding Window
+- [ ] Stack / Queue
+- [ ] Linked List
+- [ ] Binary Search
+- [ ] Recursion / Backtracking
+- [ ] Trees
+- [ ] Graphs
+- [ ] Dynamic Programming
+- [ ] Greedy
+
+---
+
+## 📂 Repository Structure
+
+```txt
+.
+├── README.md
+└── logs/
+    ├── day-001.md
+    ├── day-002.md
+    └── ...
+```
+
+## ⭐ If you like this repo or find it useful, consider starring it!
