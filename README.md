@@ -26,6 +26,7 @@ This repository is my daily log of solving **Data Structures & Algorithms** prob
 | Day | Date | Problems | Topics | Log |
 |-----|------|----------|--------|-----|
 | 001 | 2026-02-01 | 2 | Graphs | [Day 001](./logs/day-001.md) |
+| 002 | 2026-02-02 | 2 | Graphs | [Day 002](./logs/day-002.md) |
 
 ---
 
