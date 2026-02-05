@@ -29,6 +29,7 @@ This repository is my daily log of solving **Data Structures & Algorithms** prob
 | 002 | 2026-02-02 | 2 | Graphs | [Day 002](./logs/day-002.md) |
 | 003 | 2026-02-03 | 2 | Graphs | [Day 003](./logs/day-003.md) |
 | 004 | 2026-02-04 | 1 | Binary Trees | [Day 004](./logs/day-004.md) |
+| 005 | 2026-02-05 | 3 | Binary Trees | [Day 005](./logs/day-005.md) |
 
 ---
 
