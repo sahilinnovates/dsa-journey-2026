@@ -62,6 +62,7 @@ This repository is my daily log of solving **Data Structures & Algorithms** prob
 | 035 | 2026-03-07 | 1 | Graphs | [Day 035](./logs/day-035.md) |
 | 036 | 2026-03-08 | 1 | Graphs | [Day 036](./logs/day-036.md) |
 | 037 | 2026-03-09 | 1 | Graphs | [Day 037](./logs/day-037.md) |
+| 038 | 2026-03-10 | 1 | Graphs | [Day 038](./logs/day-038.md) |
 
 ---
 
