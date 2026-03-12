@@ -10,7 +10,7 @@ This repository is my daily log of solving **Data Structures & Algorithms** prob
 ## 🔥 Progress Tracker
 
 - **Start Date:** 01 Feb 2026
-- **Current Streak:** 30 days   
+- **Current Streak:** 40 days   
 - **Primary Language:** C++  
 - **Platforms:** TakeUForward / LeetCode / GFG
 
@@ -64,6 +64,7 @@ This repository is my daily log of solving **Data Structures & Algorithms** prob
 | 037 | 2026-03-09 | 1 | Graphs | [Day 037](./logs/day-037.md) |
 | 038 | 2026-03-10 | 1 | Graphs | [Day 038](./logs/day-038.md) |
 | 039 | 2026-03-11 | 1 | Graphs | [Day 039](./logs/day-039.md) |
+| 040 | 2026-03-12 | 3 | Binary Trees | [Day 040](./logs/day-040.md) |
 
 ---
 
@@ -79,7 +80,7 @@ This repository is my daily log of solving **Data Structures & Algorithms** prob
 - [ ] Binary Search
 - [ ] Recursion / Backtracking
 - [ ] Trees
-- [ ] Graphs
+- [x] Graphs
 - [ ] Dynamic Programming
 - [ ] Greedy
 
