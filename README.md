@@ -66,6 +66,7 @@ This repository is my daily log of solving **Data Structures & Algorithms** prob
 | 039 | 2026-03-11 | 1 | Graphs | [Day 039](./logs/day-039.md) |
 | 040 | 2026-03-12 | 3 | Binary Trees | [Day 040](./logs/day-040.md) |
 | 041 | 2026-03-13 | 3 | Binary Trees | [Day 041](./logs/day-041.md) |
+| 042 | 2026-03-14 | 1 | Binary Trees | [Day 042](./logs/day-042.md) |
 
 ---
 
